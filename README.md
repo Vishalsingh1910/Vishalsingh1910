@@ -1,15 +1,4 @@
-## Hi there 👋
-
-<!--
-**Vishalsingh1910/Vishalsingh1910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...# 💫 About Me:
+# 💫 About Me:
 🔭 I’m currently working on Application development<br>👯 I’m looking to collaborate on various opportunities<br>🤝 I’m looking for help with<br>🌱 I’m currently learning python and react native<br>💬 Ask me about JAVA, DART, FLUTTER, REACT NATIVE & PYTHON<br>⚡ Fun fact not master today but will be one day
 
 
@@ -30,7 +19,3 @@ Here are some ideas to get you started:
 ![](https://github-contributor-stats.vercel.app/api?username=Vishalsingh1910&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
