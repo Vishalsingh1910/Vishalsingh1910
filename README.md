@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Application development<br>👯 I’m looking to collaborate for application develpoment opportunities<br>🌱 I’m currently learning python and react native<br>💬 Ask me about FLUTTER, REACT NATIVE, JAVA, DART, & PYTHON<br>⚡ Fun fact not master today but defenitely will be one day
+🔭 I’m currently working as Software Engineer<br>👯 Looking to collaborate in application develpoment opportunities<br>🌱 I’m currently upgrading my react native, flutter & python skills<br>💬 Ask me about REACT NATIVE, FLUTTER, JAVA, DART, & PYTHON<br>⚡ I'm not master today but defenitely will be one day
 
 
 ## 🌐 Socials:
