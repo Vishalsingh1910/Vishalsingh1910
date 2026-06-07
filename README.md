@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Software Engineer<br>👯 Looking to collaborate in application develpoment opportunities<br>🌱 Always upgrading in the field of React Native, Flutter & Python<br>💬 Ask me about React Native, FLUTTER or any mobile app related query <br>⚡ I'm not master today but defenitely will be one day
+🔭 I’m a Software Engineer at IT Idol Technologies<br>👯 Looking to collaborate in application develpoment opportunities<br>🌱 Always upgrading in the field of React Native, Flutter & Python<br>💬 Ask me about React Native, FLUTTER or any mobile app related query <br>⚡ I'm not master today but defenitely will be one day
 
 
 ## 🌐 Socials:
